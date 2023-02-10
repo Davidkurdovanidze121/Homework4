@@ -1,0 +1,277 @@
+body{
+    background-color: white
+}
+
+.product-content {
+    background-color: white;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 15px 15px 15px 15px;
+    width: 350px;
+    margin: 30px;
+    margin-top: 150px;
+    text-align: center;
+
+}
+.product-content h2{
+    margin: 15px;
+    line-height: 24px;
+
+}
+.product-content p{
+    font-size: 14px;
+    line-height: 21px;
+
+}
+
+section{
+    display: inline;
+}
+
+.text-center{
+    text-align: center;
+    border-bottom: solid 1px;   
+    
+}
+li {
+    display: inline-block;
+    margin-right: 20px;
+    padding: 52px;
+    
+}
+.header-text{
+    margin-bottom: 50px;
+    text-align: center;
+    
+    
+}
+
+.product-content h2,
+.product-content p{
+    margin-left: 10px;
+}
+
+.product-wrapper-img{
+      width: 300px;
+      
+}
+.product-wrapper-text{
+    margin-top: 20px;
+    text-align: left;
+    width: 280px;
+    font-size: 16pt;
+
+}
+.product-footer button{
+    font-size: 12px;
+    line-height: 18px;
+    padding: 6px 26px;
+    background-color: inherit;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.product-footer{
+    text-align: right;
+    margin-top: 20px;
+}
+.section1{
+    text-align: center;
+    margin-top: 147px;
+    line-height: 47px;
+    font-size: 40px;
+    color: darkred;
+
+}
+.padding-from{
+    margin-top: 20px;
+    margin-left: 300px;
+   
+}
+.padding-from1{
+    margin-top: 20px;
+    padding-left: 700px;
+ 
+   
+
+   }
+   .product-wrapper{
+    display: inline-block;
+    
+   }
+   .product-wrapper.middle{
+    margin: 0px 50px;
+   }
+   .logo{
+    font-family: 'Anek Malayalam', sans-serif;
+    font-size: 26px;
+    
+   }
+   .container{
+    max-width: 1188;
+    width: 90%;
+    margin: 0;
+
+   }
+   .google-map{
+     display: inline-block;
+     text-align: center;
+    
+   }
+   .about-company{
+    text-align: center;
+    margin-top: 134px ;
+    color: darkred;
+    font-size: 40px;
+    line-height: 47px;
+   }
+   .paragraph-company{
+   
+    font-size: 25px;
+    line-height: 130%;
+    text-align: justify;
+    padding-left: 126px;
+    padding-top: 115px ;
+    height: 205px;
+    width: 650px;
+
+   }
+   .clothes-img{
+    margin-top: 70px;
+    margin-bottom: 200px;
+    margin-left: 750px;
+    width: 500px;
+    height: 333px;
+    border-radius: 20px;
+    
+    
+   }
+   .qartuli{
+    text-align: left;
+    width: 446px;
+    height: 29px;
+    font-size: 24px;
+    margin-left: 94px;
+    margin-top: 47px;
+    
+
+   }
+   .qartuli4{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 93px;
+    
+   }
+   .qartuli-foto{
+    width: 308px;
+    height: 308px;
+    margin-top: 143px;
+    margin-left: 94px;
+}
+
+   .qartuli-foto2{
+    width: 308px;
+    height: 308px;
+    margin-top: 77px;
+    margin-left: 0px;
+
+   } 
+   
+   .text-zafxuli{
+    width: 850px;
+    height: 124px;
+    margin-top: 0px;
+    font-size: 14px;
+    line-height: 16px;
+    
+
+   }
+   .zafxuli-satauri{
+    width: 226px;
+    height: 22px;
+    margin-top: 0px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+   }
+   .zafxuli-satauri2{
+    width: 226px;
+    height: 22px;
+    margin-top: 0px;
+    font-weight: bold;
+    margin-bottom: 30px;
+
+   }
+   .text-zafxuli2{
+    width: 850px;
+    height: 124px;
+    margin-top: 0px;
+    font-size: 14px;
+    line-height: 16px;
+    
+   }
+.waikitxe-srulad button{
+    font-size: 12px;
+    line-height: 14px;
+    padding: 6px 26px;
+    background-color: inherit;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.waikitxe-srulad{
+    text-align: right;
+    margin-top: 20px;
+    
+
+}
+.woman-photo{
+    width: 170px;
+    height: 170px;
+    margin-left: 206px;
+    margin-top: 256px;
+    border-radius: 300px;
+}
+.woman-header{
+    width: 206px;
+    height: 45px;
+    margin-left: 444px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 45px;
+}
+.woman-designer{
+    width: 199px;
+    height: 33px;
+    left: 444px;
+    top: 378px;
+    font-size: 22px;
+    line-height: 33px;
+    color:#546CCC;
+    font-style: italic;
+    margin-left: 444px;
+    margin-top: 15px;
+
+    
+
+}
+
+.woman-about{
+    width: 76px;
+    height: 36px;
+    margin-left: 245px;
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+
+
+}
+.border{
+    border: 1px solid #7D0000;
+    width: 135px;
+    height: 0px;
+    margin-left: 210px;
+}
